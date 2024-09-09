@@ -1,11 +1,10 @@
-
 Tugas Praktikum
 
 **Soal 1**
 
-Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (*output*) sesuai yang diminta!
+Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (_output_) sesuai yang diminta!
 
-![](Pertemuan2/doc/Aspose.Words.30550153-274a-4174-aaca-3b69974398cb.001.png)
+![alt text](doc/p2.png)
 
 **Soal 2**
 
@@ -26,8 +25,3 @@ Jawab :
 - **Type safety** di Dart membuat pengembangan lebih aman dengan mengurangi potensi bug dari tipe data yang tidak sesuai.
 
 Ini adalah landasan dasar yang penting untuk dipahami saat mengembangkan aplikasi mobile dengan Flutter.
-
-
-
-
-
